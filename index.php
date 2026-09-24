@@ -34,7 +34,7 @@ if (!$my_info) {
                     <h3 class="card-title text-success mb-1">
                         <i class="fa-solid fa-user-check me-2"></i>กิจกรรมในชั้นเรียนที่ 5: แสดงข้อมูลเฉพาะตนเอง
                     </h3>
-                    <p class="mb-1"><strong>ผู้จัดทำ:</strong> นายจิรายุ ชัยปรีชา (เลขที่ 1)</p>
+                    <p class="mb-1"><strong>ผู้จัดทำ:</strong> นางสาวสุวภัทร ปิงเมือง (เลขที่ 1)</p>
                     <p class="mb-0">
                         <i class="fa-brands fa-github text-dark me-1"></i> <strong>GitHub Repository:</strong> 
                         <a href="https://github.com/39632/afd/tree/main/a5" target="_blank" class="text-decoration-none">
