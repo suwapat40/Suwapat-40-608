@@ -11,7 +11,7 @@ $my_info = $stmt->fetch(PDO::FETCH_ASSOC);
 
 if (!$my_info) {
     $stmt2 = $conn->prepare("SELECT * FROM student WHERE student_id = :student_id LIMIT 1");
-    $stmt2->execute([':student_id' => 39632]);
+    $stmt2->execute([':student_id' => 39694]);
     $my_info = $stmt2->fetch(PDO::FETCH_ASSOC);
 }
 ?>
